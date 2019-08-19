@@ -11,3 +11,7 @@
 - [Google Data Enginnering Cheatsheet](dataeng/google-cheatsheet.md)
 
 ### BigTable / HBase
+
+### Git
+
+- [Adding more changes to your last commit](git/adding-more-chages-last-commit.md)
