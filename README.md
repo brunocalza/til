@@ -2,6 +2,10 @@
 
 > Today I Learned
 
+### Agile
+
+- [About Scrum Origin](agile/about-scrum-origin.md)
+
 ### Database Concepts
 
 - [SSTable](database-concepts/sstable.md)
