@@ -19,3 +19,7 @@
 ### Git
 
 - [Adding more changes to your last commit](git/adding-more-chages-last-commit.md)
+
+### Terraform
+
+- [Removing state](terraform/removing-state.md)
