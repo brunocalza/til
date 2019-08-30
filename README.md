@@ -18,6 +18,10 @@
 
 - [Google Data Enginnering Cheatsheet](dataeng/google-cheatsheet.md)
 
+### BigQuery
+
+- [Shortcut for running selected query](bigquery/shortcut-for-running-selected-query.md)
+
 ### BigTable / HBase
 
 ### Git
