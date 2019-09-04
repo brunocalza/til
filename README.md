@@ -24,6 +24,8 @@
 
 ### BigTable / HBase
 
+- [Relationship of the number of Dataflow cpus and BigTable nodes](bigtable/relationship-of-the-number-of-dataflow-cpus-and-bigTable-nodes.md)
+
 ### Git
 
 - [Adding more changes to your last commit](git/adding-more-chages-last-commit.md)
